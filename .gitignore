@@ -1,0 +1,29 @@
+# Python
+
+*.pyc
+*~
+__pychache__
+
+#ENV
+
+.env
+djangovenv/
+venv/
+
+# Database
+
+db.sqlite3
+
+# Static folder at project root
+
+/static/
+
+# Visual Studio
+
+.vscode/
+.history/
+*.code-workspace
+
+# Kdevelop / PyCharm
+
+djangogirls.kdev4
